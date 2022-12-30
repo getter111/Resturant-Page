@@ -1,2 +1,13 @@
-# Webpack
-Can change between pages within the website
+# Resturant Web Page  
+
+## Features  
+* Dynamically Rendered Restaurant Homepage  
+* Navigation Tabs  
+
+## Built With  
+
+* Webpack  
+* HTML  
+* CSS  
+* Javascript
+
